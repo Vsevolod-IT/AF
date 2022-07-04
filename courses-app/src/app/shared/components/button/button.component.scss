@@ -1,0 +1,14 @@
+button:hover {
+    background-color: #aaa;
+  }
+  
+  button:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px lightskyblue;
+  }
+
+  button:active {
+    background-color: #333;
+    border-color: #333;
+    color: #eee;
+  }
